@@ -1,0 +1,114 @@
+{
+    "code" : 200,
+    "status" : "success",
+    "message" : "Амжилттай",
+    "result" : [
+        {
+            "id" : "1",
+            "quistion" : "Таний боловсрол?",
+            "options" :[
+                {
+                    "id" : "1",
+                    "option_name" : "Дунд"
+                },
+                {
+                    "id" : "2",
+                    "option_name" : "Бүрэн дунд"
+                },
+                {
+                    "id" : "3",
+                    "option_name" : "Дээд"
+                },
+                {
+                    "id" : "4",
+                    "option_name" : "Мэргэжилийн"
+                }
+            ],
+            "type": "options"
+        },
+        {
+            "id" : "2",
+            "quistion" : "Та хэн бэ?",
+            "options" :[
+                {
+                    "id" : "1",
+                    "option_name" : "Эмч"
+                },
+                {
+                    "id" : "2",
+                    "option_name" : "Багш"
+                },
+                {
+                    "id" : "3",
+                    "option_name" : "Тамирчин"
+                },
+                {
+                    "id" : "4",
+                    "option_name" : "Санхүүч"
+                }
+            ],
+            "type": "options"
+        },
+        {
+            "id" : "3",
+            "quistion" : "Та юуны эмч вэ?",
+            "options" :[
+                {
+                    "id" : "1",
+                    "option_name" : "Дотор"
+                },
+                {
+                    "id" : "2",
+                    "option_name" : "Чих хамар хоолой"
+                },
+                {
+                    "id" : "3",
+                    "option_name" : "Зүрх судас"
+                },
+                {
+                    "id" : "4",
+                    "option_name" : "Мэдрэл"
+                }
+            ],
+            "type": "options"
+        },
+        {
+            "id" : "4",
+            "quistion" : "Таны ажилын туршлага?",
+            "options" :[
+                {
+                    "id" : "1",
+                    "option_name" : "1 хүртэлх жил"
+                },
+                {
+                    "id" : "2",
+                    "option_name" : "1 - 5 жил"
+                },
+                {
+                    "id" : "3",
+                    "option_name" : "5 аас 8 жил"
+                },
+                {
+                    "id" : "4",
+                    "option_name" : "8 аас дээш жил"
+                }
+            ],
+            "type": "options"
+        },
+        {
+            "id" : "5",
+            "quistion" : "Мэргэжилийн батламж, үнэлгээ шаардлагатай бичиг баримтийн зураг оруулах",
+            "options" :[
+                {
+                    "id" : "1",
+                    "option_name" : "Файл нэмэх"
+                },
+                {
+                    "id" : "2",
+                    "option_name" : "Файл нэмэх"
+                }
+            ],
+            "type": "pdf"
+        }
+    ]
+}

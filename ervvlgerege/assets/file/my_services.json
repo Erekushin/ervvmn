@@ -1,0 +1,21 @@
+{
+    "code" : 200,
+    "status" : "success",
+    "message" :  "Амжилттай",
+    "result" : [
+        {
+            "name": "pvkv chvkv",
+            "image": "https://i.pinimg.com/564x/33/14/7b/33147b4174a45ec17d9b2f783566cdb8.jpg",
+            "discription":"doing something meaningless shit and got some money",
+            "type":"tele",
+            "payment":"45000"
+        },
+        {
+            "name": "venganium",
+            "image": "https://i.pinimg.com/564x/7c/2f/47/7c2f478de45b85fa9b49c220a8e28f7e.jpg",
+            "discription":"some kind of wizard shit",
+            "type":"tele",
+            "payment":"75000"
+        }
+    ]
+} 

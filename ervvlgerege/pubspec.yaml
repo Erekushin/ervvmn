@@ -1,0 +1,58 @@
+name: ervvlgerege
+description: A new Flutter project.
+
+publish_to: 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.6 <3.0.0"
+
+dependencies:
+  dio: ^4.0.6
+  path_provider: ^2.0.11
+
+  firebase_core: ^1.24.0
+  firebase_database: ^9.1.7
+  firebase_messaging: ^13.1.0
+  awesome_notifications: ^0.7.2
+  socket_io_client: ^2.0.0
+  livekit_client: ^1.1.7
+  flutter_background: ^1.1.0
+
+  cached_network_image: ^3.2.2
+
+  get: ^4.6.5
+  swipe_cards: ^1.0.0
+  local_auth: ^2.1.2
+  image_picker: ^0.8.4+11
+  font_awesome_flutter: ^10.2.1
+  flutter_inset_box_shadow: ^1.0.8
+  # flutter_secure_storage: ^6.0.0
+  google_fonts: ^2.3.1
+  graphview: ^1.1.1
+  syncfusion_flutter_charts: ^20.1.57
+  syncfusion_flutter_pdfviewer: ^20.3.49
+  syncfusion_flutter_calendar: ^20.3.50
+  logger: ^1.1.0
+  change_app_package_name: ^1.1.0
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  videosdk: ^1.0.5
+  http: ^0.13.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/file/
+    - assets/icon/
+    - assets/icon/doctor_type_icons/

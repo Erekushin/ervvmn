@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "384117045222",
+    "project_id": "medtech-32d15",
+    "storage_bucket": "medtech-32d15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384117045222:android:001c3efd4dc38d13548827",
+        "android_client_info": {
+          "package_name": "com.medtech.marea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384117045222-bhe1fdkvifunb96hnem5er2u908fnnc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJXNvnRByQmrLyFU8lrgp4g5qjnNDSGbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384117045222-bhe1fdkvifunb96hnem5er2u908fnnc3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
